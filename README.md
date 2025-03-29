@@ -17,3 +17,12 @@ To run locally: npm run dev
 ## Testing
 
 For now, we test by running locally and being a human testbot.
+
+## Tools
+
+- React
+- Vite
+- Typescript
+- Tailwind CSS
+- ESLint: https://eslint.org
+- Netlify: https://github.com/netlify https://github.com/apps/netlify
