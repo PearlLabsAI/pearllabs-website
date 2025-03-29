@@ -9,3 +9,11 @@ Creating Getting Started is our streatch goal.
 Currently users can not get help with your project.
 
 A small squad of friends maintains and contributes to the project.
+
+## Development
+
+To run locally: npm run dev
+
+## Testing
+
+For now, we test by running locally and being a human testbot.

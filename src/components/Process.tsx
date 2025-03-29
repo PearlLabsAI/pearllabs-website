@@ -3,12 +3,12 @@ import { Brain } from 'lucide-react';
   
 export default function Process() {
     return (
-      <section id="services" className="py-20 bg-white">
+      <section id="process" className="py-20 bg-white">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="text-center">
-            <h2 className="text-3xl font-bold text-gray-900 sm:text-4xl">Our Expertise</h2>
+            <h2 className="text-3xl font-bold text-gray-900 sm:text-4xl">Our Process</h2>
             <p className="mt-4 text-xl text-gray-600">
-              We think therefore we are experts
+              How we publish our think
             </p>
           </div>
   
