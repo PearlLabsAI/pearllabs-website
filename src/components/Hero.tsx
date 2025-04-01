@@ -33,14 +33,14 @@ export default function Hero() {
               <div className="bg-white p-6 rounded-xl shadow-md transform hover:scale-105 transition-transform mt-6">
                 <Bot className="h-8 w-8 text-indigo-600 mb-3" />
                 <h3 className="font-semibold">ML Development</h3>
-                <p className="text-sm text-gray-600">Advanced machine learning implementation</p>
+                <p className="text-sm text-gray-600">Advanced Machine Learning implementation</p>
               </div>
             </div>
             <div className="space-y-6 mt-12">
               <div className="bg-white p-6 rounded-xl shadow-md transform hover:scale-105 transition-transform">
                 <Cpu className="h-8 w-8 text-indigo-600 mb-3" />
-                <h3 className="font-semibold">AI Integration</h3>
-                <p className="text-sm text-gray-600">Seamless integration with existing systems</p>
+                <h3 className="font-semibold">System Integration</h3>
+                <p className="text-sm text-gray-600">Seamless integration with your existing systems</p>
               </div>
             </div>
           </div>

@@ -1,6 +1,7 @@
-import React from 'react';
-import { Brain, Menu, X } from 'lucide-react';
+import { Menu, X } from 'lucide-react';
 import { useState } from 'react';
+import logo from '../assets/logo_only_no_backdrop.svg';
+
 
 export default function Navbar() {
   const [isMenuOpen, setIsMenuOpen] = useState(false);
@@ -10,8 +11,8 @@ export default function Navbar() {
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="flex justify-between h-16 items-center">
           <div className="flex items-center">
-            <Brain className="h-8 w-8 text-indigo-600" />
-            <span className="ml-2 text-xl font-bold text-gray-900">AI Solutions</span>
+            <img src={logo} width={56} height={56} alt="Pearl Labs LLC logo"/>
+            <span className="ml-2 text-xl font-bold text-gray-900">Pearl Labs AI Solutions</span>
           </div>
           
           <div className="hidden md:flex space-x-8">
